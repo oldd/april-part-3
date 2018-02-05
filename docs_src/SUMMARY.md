@@ -8,4 +8,4 @@
 * [Collaboration](4-collaboration.md)  
 * [APi's & Building](5-be-youtube.md)  
 * [Portfolio Facelift](6-react-portfolio.md)  
-
+* [Take a Breather](7-moving-on.md)
