@@ -4,6 +4,7 @@ repo organization
 feature-based development cycle
 MVC
 using specs
+syncronous models and schemas
 
 link to repo
 

@@ -3,10 +3,13 @@ learning objectives
 application design / file structures
 further object orientation
 testing
+mvc-lh
 
 link to project repo
 
+battleship can be a challenge at the end of this project
 
+object and function versions?
 
 ___
 ___

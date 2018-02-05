@@ -2,17 +2,17 @@ build 5 static sites, html/js/css.  they can be whatever you want, but try to ke
 
 each one will use a different set of tools, here a list for an idea:
 
-bootstrap
-pure html/css
-vanilla js
-jquery
-materialize
+bootstrap,  
+pure html/css,  
+vanilla js,  
+jquery,  
+materialize,  
 ...
 
 learning objectives
 
-debugger
-chrome devtools
+debugger,  
+chrome devtools,  
 be comfortable
 
 give each one a pretty repo and a gh-pages demo.  if you're proud of one put it in your portfolio.

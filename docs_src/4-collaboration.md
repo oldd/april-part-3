@@ -4,6 +4,7 @@ learning objectives:
 app planning
 specs to share work
 group gitting
+tests
 
 link to repo
 
