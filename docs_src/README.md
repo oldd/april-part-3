@@ -2,7 +2,7 @@ hello, welcome, this the curriculum
 
 there's projects, finish one then move on
 
-in the resources folder here (link to this repo) you'll find things you'll find helpful through all projects
+in the wiki for this repo you'll find resources that will be helpful through all the projects.  project-specific resources will be in each project's repo
 
 get started!
 
