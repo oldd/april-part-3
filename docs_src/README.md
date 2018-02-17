@@ -1,4 +1,12 @@
-Welcome to the world of fullstack!  you will now be learning hardcore software development.
+this book will have pages for each type of thing you might want to explore for your final projects.  
+not in any order.  
+  
+things like:  
+* react  
+* angular  
+* sql  
+* entrepreneur  
+* build a framework  
 
 
 ___
