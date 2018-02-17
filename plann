@@ -1,0 +1,51 @@
+cleancalc 2.0 - mvc-lh
+	- in it is an express/ejs version to study
+	- this is middleware
+	html reorganized
+	terminal
+	terminal app
+	hybrids - build through here
+	extra logic objects - ie. interest calculator
+	take in a string
+		simpler, libraries - expressions.js, math.js
+		advanced, manually - https://medium.freecodecamp.org/parsing-math-expressions-with-javascript-7e8f5572276e
+build testing suite for your cleancalc 2.0
+	jasmine
+basic pure mvc-lh node app
+	anything funcitonality they want
+	restful
+	ejs
+	mongo/goose
+	have them build tests
+	basic deployment
+collaboration + data relationships
+	*book
+	can't yet use react
+	TDD
+	doc building tools
+"microservices" - modular design.
+	tictactoe example to study
+	cleancalc example to study
+	then whatever they want
+authentication
+	1. crude manual authentication
+	2. passport and real authentication
+front end apps
+	- data integrity
+	tictactoe examples to study
+	calc example to study?
+	get react back in there
+everything
+	data api, static server, logic api + basic spa
+retrospective portfolio curating
+	just that
+	a closing step before going out on individual projects
+
+mvvm and beyond
+	- at this point you're splitting up for final projects
+	react
+	redux
+	graphql
+	...
+	or starting company, whatever
+	data structures and algorithms

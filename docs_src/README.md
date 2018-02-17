@@ -1,10 +1,4 @@
-hello, welcome, this the curriculum
-
-there's projects, finish one then move on
-
-in the wiki for this repo you'll find resources that will be helpful through all the projects.  project-specific resources will be in each project's repo
-
-get started!
+Welcome to the world of fullstack!  you will now be learning hardcore software development.
 
 
 ___

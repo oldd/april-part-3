@@ -1,3 +1,22 @@
-this is just a gitbook, all the content itself will be hosted in the repo with the project its needed for.
+this piece is not so strictly ordered, its for you to explore as you build your final project
 
-any resources that are useful through the whole first part can be in the wiki (yup, i'm trying again)
+react  
+redux  
+graphql  
+component architecture  
+mvvm  
+dependancy injection / layers of indirection
+solid
+
+hardcore fp
+
+deep js
+
+sales automation  
+wordpress  
+business systemsing  
+
+data structures
+algorithms
+  
+
