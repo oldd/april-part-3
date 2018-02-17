@@ -1,11 +1,13 @@
+redo your portfolio main page using static react components
 learning objectives
 
-application design / file structures
-further object orientation
-testing
+component-based design
+more node / build environment
+using react
 
-link to project repo
+link to repo
 
+(I figured out a good way to do this with Gota, I'll build the demo)
 
 
 ___
